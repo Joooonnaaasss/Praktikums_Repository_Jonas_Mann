@@ -19,12 +19,7 @@ Diese Berichte wurden sorgfältig erstellt, um den Fortschritt und die Aufgaben 
 
 Die Markdown-Dateien wurden als Grundlage für die Erstellung der finalen Dokumentationen in PNG und PDF verwendet.
 
-### 2. **Bilder und Dokumentationen (PNG)**
-
-In diesem Ordner sind alle wichtigen Dokumentationen und Berichte im PNG-Format abgelegt.  
-Da PDF-Dateien teilweise verzerrt dargestellt werden können, stehen alle wichtigen Inhalte auch als PNG-Dateien zur Verfügung, um die Lesbarkeit zu gewährleisten.
-
-### 3. **Detaliertedokumentation**
+### 2. **Detaliertedokumentation**
 
 Hier befindet sich eine detaillierte Übersicht meiner gesamten Arbeit während des Praktikums.  
 Dieser Ordner enthält einen detaillierten Plan und zusätzliche Erläuterungen zu den verschiedenen Aufgaben und Lerninhalten.
@@ -46,8 +41,6 @@ Diese sind in diesem Repository nicht enthalten, da sie den Rahmen sprengen wür
 ## Struktur des Repositories
 
 - `Wochenberichte (md)/`: Enthält wöchentliche Berichte im Markdown-Format.
-  
-- `PNG/`: Alle Endberichte und Dokumentationen als PNG-Dateien.
   
 - `Detaliertedokumentation/`: Ein Ordner mit tiefergehender Dokumentation und ergänzenden Plänen.
 
